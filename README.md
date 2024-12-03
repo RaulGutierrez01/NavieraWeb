@@ -87,11 +87,11 @@ Actualizaciones
 9. Solución de problemas
 Errores comunes
 1.	No cargar la página:
-o	Verifica que Apache esté corriendo.
-o	Asegúrese de haber colocado el proyecto en la carpeta correcta.
+      Verifica que Apache esté corriendo.
+      Asegúrese de haber colocado el proyecto en la carpeta correcta.
 2.	Error al conectar con la base de datos:
-o	Comprueba que las credenciales sean correctas.
-o	Verifica que la base de datos esté creada.
+      Comprueba que las credenciales sean correctas.
+      Verifica que la base de datos esté creada.
 3.	Página en blanco tras iniciar sesión:
-o	Revisa el código PHP para errores con error_reporting
+      Revisa el código PHP para errores con error_reporting
 
