@@ -28,7 +28,8 @@ Software
 •	Navegador: Google Chrome, Mozilla Firefox, etc.
 
 4. Instalación y configuración del entorno
-Instalación del Servidor Local:
+Instalación del Servidor Local: ![image](https://github.com/user-attachments/assets/9d1000f4-fff2-464d-811d-d2d71eff9a0e)
+
   1.	Descarga XAMPP 
   2.	Instala XAMPP y habilita los módulos necesarios:
       o	Apache.
