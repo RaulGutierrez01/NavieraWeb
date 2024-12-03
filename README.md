@@ -1,5 +1,6 @@
 # NavieraWeb
-1. Propósito del Sistema
+1. Propósito del Sistema![logoAtlantisNav](https://github.com/user-attachments/assets/a35d0fa6-083c-4955-8d3b-c258015b123c)
+
 Este sistema web tiene como objetivo principal gestionar y facilitar la interacción entre usuarios y empleados dentro de una plataforma de servicios relacionados con una navegación. La plataforma cuenta con dos interfaces principales:
       •Interfaz para empleados: Proporciona herramientas de administración, acceso a datos y funcionalidades específicas para la gestión interna.
       •	Interfaz para clientes: Ofrece a los usuarios finales un acceso personalizado para realizar consultas o interactuar con los servicios de la navegación.
@@ -39,16 +40,19 @@ Instalación del Servidor Local: ![image](https://github.com/user-attachments/as
 Configuración del proyecto
 1.	Copia los archivos de tu proyecto al directorio raíz del servidor local:
 o	Para XAMPP: C:\xampp\htdocs\tu_proyecto.
- 
+ ![image](https://github.com/user-attachments/assets/e4ce8fa5-5ad9-40e4-8318-29e3165871f7)
+
 2.	Crea una base de datos:
 
 o	Acceda a http ://localhost /phpmyadmin/ .
 o	Haz clic en Nueva .
 o	Asigna el nombre de la base de datos: naviera.
- 
+ ![image](https://github.com/user-attachments/assets/2174a261-6397-44b2-a607-de612e055757)
+
 5. Configuración de la Base de Datos
 Estructura de la Base de Datos
- 
+ ![image](https://github.com/user-attachments/assets/a33b09a6-f330-481f-9226-0140f7005267)
+
 6.Configuración de los Archivos
 Los archivos están configurados según sus tareas por ejemplo: login.php que es el modulo de inicio de sesión, registrar.php que es el modulo de registrar usuario entre otros que estan en la carpeta del proyecto.
 1.	Las  credenciales de la base de datos están configuradas de esta manera para que se pueda conectar a ella:
@@ -67,7 +71,8 @@ Prueba de Conexión a la Base de Datos
 o	Que el servidor MySQL está activo.
 o	Las credenciales en el archivo PHP.
 Prueba de inicio de sesión
- 
+ ![image](https://github.com/user-attachments/assets/9a8613b0-7793-460a-996d-2eb121e6237d)
+
 1.	Introduzca los datos de usuario de ejemplo.
 2.	Verifique que el sistema redirige correctamente según el tipo de usuario.
 
