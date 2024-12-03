@@ -1,4 +1,4 @@
-# NavieraWeb
+![image](https://github.com/user-attachments/assets/1533f3c5-b7df-4692-b3bd-bf4ee954cc63)# NavieraWeb
 1. Propósito del Sistema
 Este sistema web tiene como objetivo principal gestionar y facilitar la interacción entre usuarios y empleados dentro de una plataforma de servicios relacionados con una navegación. La plataforma cuenta con dos interfaces principales:
 •	Interfaz para empleados: Proporciona herramientas de administración, acceso a datos y funcionalidades específicas para la gestión interna.
@@ -28,13 +28,12 @@ Software
 •	Navegador: Google Chrome, Mozilla Firefox, etc.
 
 4. Instalación y configuración del entorno
-Instalación del Servidor Local
- 
-1.	Descarga XAMPP 
-2.	Instala XAMPP y habilita los módulos necesarios:
-o	Apache.
-o	Base de datos MySQL
-3.	Acceda al panel de control de XAMPP y arranca los servicios Apache y MySQL .
+Instalación del Servidor Local:
+  1.	Descarga XAMPP 
+  2.	Instala XAMPP y habilita los módulos necesarios:
+      o	Apache.
+     o	Base de datos MySQL
+  3.	Acceda al panel de control de XAMPP y arranca los servicios Apache y MySQL .
 
 Configuración del proyecto
 1.	Copia los archivos de tu proyecto al directorio raíz del servidor local:
