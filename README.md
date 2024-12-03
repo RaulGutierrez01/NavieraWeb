@@ -1,13 +1,13 @@
 # NavieraWeb
 1. Propósito del Sistema
 Este sistema web tiene como objetivo principal gestionar y facilitar la interacción entre usuarios y empleados dentro de una plataforma de servicios relacionados con una navegación. La plataforma cuenta con dos interfaces principales:
-•	Interfaz para empleados: Proporciona herramientas de administración, acceso a datos y funcionalidades específicas para la gestión interna.
-•	Interfaz para clientes: Ofrece a los usuarios finales un acceso personalizado para realizar consultas o interactuar con los servicios de la navegación.
+      •Interfaz para empleados: Proporciona herramientas de administración, acceso a datos y funcionalidades específicas para la gestión interna.
+      •	Interfaz para clientes: Ofrece a los usuarios finales un acceso personalizado para realizar consultas o interactuar con los servicios de la navegación.
 El sistema incluye funcionalidades como: 
 •	Inicio de sesión diferenciado por roles ( Empleado y Usuario ).
 •	Registro de usuarios para clientes.
 •	Diseño responsivo y moderno para una experiencia óptima en distintos dispositivos.
-2. Descripción General del Proyecto
+3. Descripción General del Proyecto
 El sistema está compuesto por las siguientes partes principales:
 1.	Frontend: Diseñado con HTML y CSS para proporcionar una interfaz amigable y responsiva.
 2.	Backend: Desarrollado en PHP para manejar la lógica del servidor, la interacción con la base de datos y la autenticación.
